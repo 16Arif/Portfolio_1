@@ -1,2 +1,2 @@
 # Portfolio_1
-This is my first portfolio that i made with Bootsrap 5
+This is the first portfolio that i made with Bootstrap 5
